@@ -1,0 +1,6 @@
+framework module Pods_Test_ABA {
+  umbrella header "Pods-Test ABA-umbrella.h"
+
+  export *
+  module * { export * }
+}
