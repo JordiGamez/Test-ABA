@@ -1,4 +1,4 @@
-![Test ABA](github-header.jpg?raw=true "Test ABA")
+![Test ABA](github-header.png?raw=true "Test ABA")
 
 # Test ABA
 Test ABA is an small iOS Application that interacts with a local CSV file showing his entries. Written in Swift 3.
